@@ -79,5 +79,4 @@ Hi, I’m **Ayushi Singh**, a data enthusiast with a strong interest in solving 
 ---
 
 ## 🚀 Stay Connected
-💼 LinkedIn: [Ayushi Singh](https://www.linkedin.com/in/ayushi1234/)
-- Let’s connect professionally 
+💼 LinkedIn: [Ayushi Singh](https://www.linkedin.com/in/ayushi1234/) 
