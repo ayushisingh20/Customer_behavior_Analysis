@@ -29,12 +29,12 @@ You are tasked with analyzing the company's consumer behavior dataset to answer 
 
 ## 🧠 Approach
 
-### 🐍 Data Processing (Python)
+#### 🐍 Data Processing (Python)
 - Cleaned and preprocessed raw data  
 - Handled missing values and ensured consistency  
 - Performed exploratory data analysis (EDA)  
 
-### 🗄️ Data Analysis (SQL)
+#### 🗄️ Data Analysis (SQL)
 - Analyzed customer behavior using queries  
 - Identified:
   - High-value customers  
@@ -42,7 +42,7 @@ You are tasked with analyzing the company's consumer behavior dataset to answer 
   - Product performance  
   - Impact of discounts and subscriptions  
 
-### 📊 Visualization (Looker Studio)
+#### 📊 Visualization (Looker Studio)
 - Built an interactive dashboard  
 - Visualized KPIs like revenue, segments, and trends  
 - Designed for easy understanding by stakeholders
